@@ -1,0 +1,78 @@
+h3{
+    text-align: center;
+}
+
+#uni{
+    float: right;
+    width: 70px;
+    
+}
+#margen{
+    padding: 55px;
+}
+body{
+   background-color: rgb(197, 194, 194);
+}
+
+#back{
+    background-color: white;
+    padding-left: 40px;
+}
+.justificado{
+    text-align: justify;
+}
+table, th{
+    border: solid rgb(0, 0, 0);
+    border-collapse: collapse;
+    border-width: 1px;
+    
+    
+}
+
+table{
+    width: 80%;
+    padding: 100px;  
+    
+}
+.center{
+    text-align: center;
+}
+tr,td{
+    border: solid orange;
+   border-width: 1px;
+}
+
+th{
+    background-color: yellow;
+}
+table tr:nth-child(EVEN){
+    background-color: rgb(247, 211, 177);
+    border: 5px;
+}
+.rojo{
+    color: red;
+    text-align: left;
+}
+.justificado{
+    text-align: justify;
+}
+.left{
+    text-align: left;
+}
+.verde{
+    color:rgb(71, 199, 71);
+}
+#rojote{
+    background-color: red;
+    color: yellow;
+}
+
+#atenta{
+    margin-top: 100px;
+}
+#tablarancia{
+    padding-left: 80px;
+}
+
+
+
